@@ -11,11 +11,33 @@ h1{
 
 }
 
+h1:hover{
+
+	color: green;
+}
+
 p{
 	color:#1CF6F7;
 	text-transform: 
 }
 
+p:first-line{
+	color:blue;
+}
+
 hr{
 	border-color:#90FF0D;
+}
+
+#content{
+	width:600px;
+	background-color:#0BC9E8;
+	border-width: 2px;
+	border-style: solid;
+	padding: 20px;
+	margin: auto;
+	border-radius: 100%;
+	overflow: hidden;
+
+
 }
