@@ -1,14 +1,19 @@
 body{
 	background:#0A295C;
-	font-family:arial;
+	
 }
 
 h1{
 	color:#1C6DF7;
+	font-family: Optima, Calibri, sans-serif;
+	text-align: center;
+	text-decoration: underline;
+
 }
 
 p{
 	color:#1CF6F7;
+	text-transform: 
 }
 
 hr{
