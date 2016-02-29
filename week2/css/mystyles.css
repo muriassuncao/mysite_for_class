@@ -1,0 +1,22 @@
+body{
+	background:#9FBA9E;
+	color:#576656;
+	font-family: calibri, candara, sans-serif;	
+}
+a:link {
+    color: #152E4C
+    text-decoration:underline;
+}
+a:visited {
+    color: #7C6656
+    text-decoration:underline;
+}
+a:active {
+    color: #286656
+    text-decoration:underline;
+}
+
+h1{
+	text-align: center;
+}
+
