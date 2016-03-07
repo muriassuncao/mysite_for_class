@@ -1,0 +1,21 @@
+.box{
+	width:200px;
+	height: 200px;
+	border: 1px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+}
+
+
+#red{
+	background: red
+}
+
+#green{
+	background: green
+}
+
+#blue{
+	background: blue
+}
